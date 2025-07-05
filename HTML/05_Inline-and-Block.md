@@ -57,15 +57,6 @@
 <pre>
 <p>This is a <span style="color: red;">highlighted</span> word.</p></pre>
 
-## 3. Key Differences
-
-| Feature          | Block Elements                  | Inline Elements                    |
-| ---------------- | ------------------------------- | ---------------------------------- |
-| Display behavior | Start on a new line             | Flow within a line                 |
-| Width            | Full width of parent by default | Only as wide as content            |
-| Contain          | Other block or inline elements  | Only text or other inline elements |
-| Use Case         | Layout and structure            | Formatting small chunks of content |
-
 ## 4. Mixed Example
 
 ```html
