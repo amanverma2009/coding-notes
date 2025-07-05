@@ -57,7 +57,7 @@
 <pre>
 <p>This is a <span style="color: red;">highlighted</span> word.</p></pre>
 
-## 4. Mixed Example
+## 3. Mixed Example
 
 ```html
 <div>
@@ -70,7 +70,7 @@
 <pre>
 <div><p>This is a <strong>bold</strong> word and a <a href="#">link</a>.</p></div></pre>
 
-## 5. Converting Display Type with CSS
+## 4. Converting Display Type with CSS
 
 You can convert block elements to inline or vice versa using CSS:
 
