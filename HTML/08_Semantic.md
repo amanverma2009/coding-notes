@@ -137,7 +137,7 @@ They help both **developers and browsers** understand the structure and purpose 
 
 ```html
 <figure>
-  <img src="project.png" alt="Project Screenshot">
+  <img src="https://as1.ftcdn.net/v2/jpg/05/40/08/54/1000_F_540085480_WN26Tz5VOFRwdPsLmK73JXNuSYsi2luw.jpg" alt="Project Screenshot">
   <figcaption>Screenshot of my latest project</figcaption>
 </figure>
 ```
@@ -145,7 +145,7 @@ They help both **developers and browsers** understand the structure and purpose 
 ### Output:
 
 <pre>
-<figure><img src="project.png" alt="Project Screenshot"><figcaption>Screenshot of my latest project</figcaption></figure></pre>
+<figure><img src="https://as1.ftcdn.net/v2/jpg/05/40/08/54/1000_F_540085480_WN26Tz5VOFRwdPsLmK73JXNuSYsi2luw.jpg" alt="Project Screenshot"><figcaption>Screenshot of my latest project</figcaption></figure></pre>
 
 ## 9. `<mark>` (Highlight Text)
 
