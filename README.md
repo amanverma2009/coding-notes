@@ -13,8 +13,10 @@ Welcome to **Coding Notes**, your personal documentation hub for mastering HTML,
 ## 📚 Topics Covered
 
 1. [HTML](./HTML/README.md)
-2. [CSS](./CSS/README.md) `# Coming soon`
+2. [CSS](./CSS/README.md)
 3. [JavaScript](./JavaScript/README.md) `# Coming soon`
+4. [Node.JS](./NODE.JS/README.md) `# Coming soon`
+5. [React](./REACT/README.md) `# Coming soon`
 
 ## ⚡ Why Use This Repo?
 
@@ -27,9 +29,9 @@ Welcome to **Coding Notes**, your personal documentation hub for mastering HTML,
 
 1. Clone the repo:
 
-```bash
-git clone https://github.com/amanverma2009/coding-notes.git
-```
+    ```bash
+    git clone https://github.com/amanverma2009/coding-notes.git
+    ```
 
 2. Open any `.md` file in your markdown viewer or code editor.
 3. Use it as a cheat sheet or learning guide.

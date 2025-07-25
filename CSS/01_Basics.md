@@ -111,7 +111,7 @@ body {
 
 Every HTML element is a box made of:
 
-```
+```css
 +-----------------------------+
 |        Margin               |
 |   +---------------------+   |

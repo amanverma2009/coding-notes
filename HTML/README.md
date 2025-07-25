@@ -13,3 +13,18 @@ Welcome to the **HTML section** of the Coding Notes repo. This folder contains w
 7. [Media Elements](./07_Media.md) - Image, Audio, Video, Multiple Sources, Subtitles and Captions, Canvas, IFrames and Lazy Loading
 8. [Semantic Elements](./08_Semantic.md) - header, nav, main, section, article, aside, footer, figure, figcaption and mark
 9. [Entities and Code Tags](./09_Entities.md) - HTML Entities, Inline Code, Preformatted Text, Keyboard Input, Sample Output and Variable Name
+
+## [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+MDN stands for Mozilla Developer Network. It's a free, open-source web documentation resource created by Mozilla.
+
+### Why use MDN?
+
+* Up-to-date, standards-based documentation
+* Code examples and usage patterns
+* Great for both beginners and experienced devs
+* No fluff — straight to the point
+
+Use it as your **primary reference** when building anything web-related.
+
+---
