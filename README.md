@@ -14,7 +14,7 @@ Welcome to **Coding Notes**, your personal documentation hub for mastering HTML,
 
 1. [HTML](./HTML/README.md)
 2. [CSS](./CSS/README.md)
-3. [JavaScript](./JavaScript/README.md) `# Coming soon`
+3. [JavaScript](./JavaScript/README.md)
 4. [Node.JS](./NODE.JS/README.md) `# Coming soon`
 5. [React](./REACT/README.md) `# Coming soon`
 
@@ -38,7 +38,7 @@ Welcome to **Coding Notes**, your personal documentation hub for mastering HTML,
 
 ## 🧑‍💻 Author
 
-Made with ❤️ Me
+Made with ❤️ By Me
 
 ## ⭐️ Support & Contribute
 

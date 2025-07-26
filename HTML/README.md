@@ -26,5 +26,3 @@ MDN stands for Mozilla Developer Network. It's a free, open-source web documenta
 * No fluff — straight to the point
 
 Use it as your **primary reference** when building anything web-related.
-
----
