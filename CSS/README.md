@@ -2,6 +2,11 @@
 
 Welcome to the **CSS section** of the Coding Notes repo. This folder contains well-structured, beginner-friendly notes on CSS fundamentals and essential properties you need to master for building modern web pages.
 
+## Popular Frameworks
+
+1. TailwindCSS
+2. Bootstrap
+
 ## 📚 Topics Covered
 
 1. [Basics](./01_Basics.md) – syntax, comments and more

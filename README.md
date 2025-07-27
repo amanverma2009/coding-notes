@@ -14,8 +14,8 @@ Welcome to **Coding Notes**, your personal documentation hub for mastering HTML,
 
 1. [HTML](./HTML/README.md)
 2. [CSS](./CSS/README.md)
-3. [JavaScript](./JavaScript/README.md)
-4. [Node.JS](./NODE.JS/README.md) `# Coming soon`
+3. [JavaScript](./JS/README.md)
+4. [Node.JS](./Node-JS/README.md)
 5. [React](./REACT/README.md) `# Coming soon`
 
 ## ⚡ Why Use This Repo?
