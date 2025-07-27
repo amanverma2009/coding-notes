@@ -13,10 +13,6 @@ Welcome to the **Node.js section** of the Coding Notes repo. This folder contain
 7. [Error Handling and Debugging](./07_Error-Handling-and-Debugging.md) - try/catch, async error handling, error events, `debugger`, `inspect`
 8. [JSON, Timers and CLI Tools](./08_JSON-Timers-CLI.md) - Working with JSON files, `setTimeout`, `setInterval`, command-line interaction
 
-## What is Node.js?
-
-Node.js is a **JavaScript runtime built on Chrome's V8 engine**. It allows running JS outside the browser and is used for building fast, scalable backend apps using a non-blocking, event-driven architecture.
-
 ## [Node.js Documentation](https://nodejs.org/docs/latest/api/)
 
 For the most accurate reference, visit the official docs of Node.js.
