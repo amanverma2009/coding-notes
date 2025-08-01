@@ -5,6 +5,7 @@ Welcome to the **React section** of the Coding Notes repo. This folder contains 
 ## 📚 Topics Covered
 
 1. [Basics of React](./01_Basics.md) – what React is, why it’s used, JSX, and core features  
+2. [Components and Props](./02_Components-and-Props.md) – types of components, props properties and more
 
 ## Official Docs
 
