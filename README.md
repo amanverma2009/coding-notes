@@ -1,6 +1,6 @@
 # Coding-Notes
 
-Welcome to **Coding Notes**, your personal documentation hub for mastering HTML, CSS, JavaScript, and more. This repo serves as a well-organized, beginner-to-advanced reference guide that you can always come back to when you need a quick refresh or deep dive.
+Welcome to **Coding Notes**, my personal coding notes hub for mastering HTML, CSS, JavaScript, and more. This repo serves as a well-organized, beginner-to-advanced reference guide that you can always come back to when you need a quick refresh or deep dive.
 
 ## 📑 Table of Contents
 
@@ -22,7 +22,7 @@ Welcome to **Coding Notes**, your personal documentation hub for mastering HTML,
 
 * **Clarity**: Well-explained concepts with code and output
 * **Quick Reference**: Fast lookup for tag usage and examples
-* **Interview Prep**: Covers common HTML topics
+* **Interview Prep**: Covers core topics
 * **Beginner Friendly**: Starts from scratch with real examples
 
 ## ✍️ How to Use
