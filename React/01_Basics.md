@@ -103,14 +103,3 @@ my-app/
 * **Redux / Context API** – state management
 * **React Query / SWR** – data fetching and caching
 * **Tailwind / Styled Components** – styling
-
-## Summary
-
-| Concept     | Purpose                       |
-| ----------- | ----------------------------- |
-| Component   | Reusable UI block             |
-| JSX         | Write UI in JS                |
-| Props       | Pass data to child components |
-| State       | Local reactive data           |
-| Virtual DOM | Efficient UI updates          |
-| useState    | Hook to manage state          |

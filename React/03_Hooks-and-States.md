@@ -36,7 +36,7 @@ const [state, setState] = useState(initialValue);
 ### Example with Object:
 
 ```jsx
-const [user, setUser] = useState({ name: "Aman", age: 15 });
+const [user, setUser] = useState({ name: "Rahul", age: 15 });
 
 setUser({ ...user, age: 16 }); // use spread to keep other properties
 ```
