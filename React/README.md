@@ -9,6 +9,7 @@ Welcome to the **React section** of the Coding Notes repo. This folder contains 
 3. [Hooks and State](./03_Hooks-and-States.md) - useState Hook, useEffect Hook and more
 4. [useEffect Hook](./04_useEffect-hook.md) - Cleanup Function, Multiple Effects and more
 5. [useRef Hook](./05_useRef-hook.md) - useRef in Event Handlers, Forwarding Refs and more
+6. [Conditional Rendering and Rendering Lists](./06_Conditional-Rendering-and-Rendering-Lists.md) - Rendering List of Objects, Prevent Rendering and more
 
 ## Official Docs
 
