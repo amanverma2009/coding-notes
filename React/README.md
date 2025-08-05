@@ -8,6 +8,7 @@ Welcome to the **React section** of the Coding Notes repo. This folder contains 
 2. [Components and Props](./02_Components-and-Props.md) – types of components, props properties and more
 3. [Hooks and State](./03_Hooks-and-States.md) - useState Hook, useEffect Hook and more
 4. [useEffect Hook](./04_useEffect-hook.md) - Cleanup Function, Multiple Effects and more
+5. [useRef Hook](./05_useRef-hook.md) - useRef in Event Handlers, Forwarding Refs and more
 
 ## Official Docs
 
