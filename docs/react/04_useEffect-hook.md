@@ -102,7 +102,7 @@ useEffect(() => {
 
 ```jsx
 useEffect(() => {
-  setCount(count + 1); // ❌ BAD: triggers render → runs again
+  setCount(count + 1); // BAD: triggers render → runs again
 });
 ```
 

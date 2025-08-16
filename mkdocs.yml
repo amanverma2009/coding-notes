@@ -1,0 +1,119 @@
+site_name: Aman's Coding Notes
+site_description: "A personal knowledge base of programming and web development."
+site_author: Aman Verma
+repo_url: https://github.com/amanverma2009/coding-notes
+repo_name: coding-notes
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: teal
+    - scheme: slate
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - search.suggest
+    - toc.integrate
+    - content.tabs.link
+    - content.code.copy
+    - content.code.annotate
+    - content.action.edit
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+  - pymdownx.details
+  - pymdownx.inlinehilite
+
+nav:
+  - Home: index.md
+  - HTML:
+      - Basics: html/01_Basics.md
+      - Generic Containers: html/02_Generic-Containers.md
+      - Text Content: html/03_Text-Content.md
+      - Lists: html/04_Lists.md
+      - Inline and Block Elements: html/05_Inline-and-Block.md
+      - Forms: html/06_Forms.md
+      - Media Elements: html/07_Media.md
+      - Semantic Elements: html/08_Semantic.md
+      - Entities and Code Tags: html/09_Entities.md
+  - CSS:
+      - Basics: css/01_Basics.md  
+      - Selectors: css/02_Selectors.md  
+      - Fonts: css/03_Fonts.md  
+      - Texts: css/04_Texts.md  
+      - Colors: css/05_Colors.md  
+      - Specificity and Cascade: css/06_Specificity-and-Cascade.md  
+      - Sizing Units: css/07_Sizing-Units.md  
+      - Display Property: css/08_Display.md  
+      - Overflow Property: css/09_Overflow.md  
+      - Position Property: css/10_Position.md  
+      - Variables: css/11_Variables.md  
+      - Media Queries: css/12_Media-Queries.md  
+      - Float and Clear: css/13_Float-and-clear.md  
+      - Flexbox: css/14_Flexbox.md  
+      - Grid: css/15_Grid.md  
+      - Transforms: css/16_Transforms.md  
+      - Transitions: css/17_Transitions.md  
+      - Animations: css/18_Animations.md  
+      - Object-Fit and Object-Cover: css/19_Object-fit-&-Object-Cover.md  
+      - Filters: css/20_Filters.md
+  - JavaScript:
+      - Basics: js/01_Basics.md  
+      - Variables: js/02_Variables.md  
+      - Data Types: js/03_Data-Types.md  
+      - Objects: js/04_Objects.md  
+      - Conditionals: js/05_Conditionals.md  
+      - Loops: js/06_Loops.md  
+      - Functions: js/07_Functions.md  
+      - Strings: js/08_Strings.md  
+      - Arrays: js/09_Arrays.md  
+      - DOM - Part 1: js/10_DOM-Part-1.md  
+      - DOM - Part 2: js/11_DOM-Part-2.md  
+      - DOM - Part 3: js/12_DOM-Part-3.md  
+      - DOM - Part 4: js/13_DOM-Part-4.md  
+      - Callbacks: js/14_Callbacks.md  
+      - Promises: js/15_Promises.md  
+      - Async-Await: js/16_Async-Await.md  
+      - Try Catch and Error Handling: js/17_Try-Catch-and-Error-Handling.md  
+      - Classes and Objects: js/18_Classes-and-Objects.md  
+      - Fetch API: js/19_Fetch-API.md
+  - Git and Github:
+      - Git and Github: git/01_Git-and-Github.md
+  - Node.js:
+      - Intro and Setup: node-js/01_Basics.md  
+      - Modules and Packages: node-js/02_Modules-and-Packages.md  
+      - File System and Path: node-js/03_FileSystem-and-Path.md  
+      - HTTP and Routing: node-js/04_HTTP-and-Routing.md  
+      - Events and Streams: node-js/05_Events-and-Streams.md  
+      - Process and Globals: node-js/06_Process-and-Globals.md  
+      - Error Handling and Debugging: node-js/07_Error-Handling-and-Debugging.md  
+      - JSON, Timers and CLI Tools: node-js/08_JSON-Timers-CLI.md
+  - React:
+      - Basics of React: react/01_Basics.md  
+      - Components and Props: react/02_Components-and-Props.md  
+      - Hooks and State: react/03_Hooks-and-States.md  
+      - useEffect Hook: react/04_useEffect-hook.md  
+      - useRef Hook: react/05_useRef-hook.md  
+      - Conditional Rendering and Rendering Lists: react/06_Conditional-Rendering-and-Rendering-Lists.md

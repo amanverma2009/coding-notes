@@ -79,9 +79,3 @@ const Input = React.forwardRef((props, ref) => {
   return <input ref={ref} {...props} />;
 });
 ```
-
-## Summary
-
-* `useRef()` returns a `.current` object that persists
-* Used for DOM manipulation or storing values between renders
-* Won’t cause a re-render when updated
