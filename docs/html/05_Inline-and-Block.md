@@ -1,4 +1,4 @@
-# HTML Block and Inline Elements
+# Block and Inline Elements
 
 ## 1. Block-Level Elements
 

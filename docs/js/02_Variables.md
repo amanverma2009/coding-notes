@@ -1,4 +1,4 @@
-# JavaScript Variables
+# Variables
 
 Variables are used to **store data** that can be referenced and manipulated later.
 

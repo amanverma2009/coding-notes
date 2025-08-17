@@ -1,4 +1,4 @@
-# JavaScript `async/await`
+# `async/await`
 
 `async` and `await` are **syntactic sugar** over Promises that make asynchronous code look and behave like synchronous code.
 

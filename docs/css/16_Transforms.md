@@ -1,4 +1,4 @@
-# CSS Transforms
+# Transforms
 
 The `transform` property lets you apply **2D and 3D transformations** to elements — such as rotating, scaling, moving, or skewing.
 

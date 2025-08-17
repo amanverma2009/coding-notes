@@ -1,4 +1,4 @@
-# Git and GitHub Notes
+# Git and GitHub
 
 ## 1. What is Git?
 

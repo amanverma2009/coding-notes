@@ -1,4 +1,4 @@
-# CSS Filters
+# Filters
 
 The `filter` property applies **visual effects** (like blur, brightness, contrast, etc.) to elements — especially images and backgrounds.
 

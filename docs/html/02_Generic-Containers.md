@@ -1,4 +1,4 @@
-# Generic HTML Containers-`<div>` and `<span>`
+# Generic HTML Containers
 
 ## 🔹`<div>` — Block-level Container
 

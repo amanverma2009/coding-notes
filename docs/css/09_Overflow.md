@@ -1,4 +1,4 @@
-# CSS Overflow
+# Overflow
 
 The `overflow` property controls what happens when content **exceeds** the size of its container.
 

@@ -1,0 +1,12 @@
+arrange:
+  - index.md
+  - html
+  - css
+  - js
+  - git-and-github
+  - node-js
+  - react
+
+folders:
+  assets:
+    hide: true

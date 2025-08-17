@@ -1,4 +1,4 @@
-# JavaScript Objects
+# Objects
 
 Objects are key-value pairs used to store **structured data**. Each key is a **property**, and its value can be any data type.
 

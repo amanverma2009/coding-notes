@@ -1,4 +1,4 @@
-# CSS Variables
+# Variables
 
 CSS Variables (also called **custom properties**) allow you to store values in reusable, scoped variables using the `--` syntax.
 

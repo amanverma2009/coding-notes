@@ -1,4 +1,4 @@
-# HTML Entities and Code Tags
+# Entities and Code Tags
 
 ## 1. HTML Entities
 

@@ -1,4 +1,4 @@
-# CSS Grid
+# Grid
 
 **Grid** is a 2-dimensional layout system for arranging items in rows and columns.
 

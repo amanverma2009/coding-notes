@@ -1,4 +1,4 @@
-# JavaScript Conditionals
+# Conditionals
 
 Conditionals control the flow of code by executing different blocks based on **true/false** evaluations.
 

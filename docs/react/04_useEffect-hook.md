@@ -1,4 +1,4 @@
-# React useEffect Hook
+# useEffect Hook
 
 The `useEffect` hook lets you perform **side effects** in functional components — like fetching data, setting up subscriptions, timers, or manually changing the DOM.
 

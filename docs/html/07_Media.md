@@ -1,4 +1,4 @@
-# HTML Media Elements
+# Media Elements
 
 ## 1. Image: `<img>`
 

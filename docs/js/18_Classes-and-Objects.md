@@ -1,4 +1,4 @@
-# JavaScript Classes & Objects
+# Classes & Objects
 
 JavaScript supports **object-oriented programming (OOP)** using **classes** (ES6+) and **constructor functions**. Classes help organize related data and behavior into reusable blueprints.
 

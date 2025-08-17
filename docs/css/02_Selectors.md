@@ -1,4 +1,4 @@
-# CSS Selectors
+# Selectors
 
 CSS **selectors** target HTML elements to apply styles. They determine **what** gets styled.
 

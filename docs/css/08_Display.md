@@ -1,4 +1,4 @@
-# CSS Display Property
+# Display Property
 
 The `display` property defines **how an element is rendered** in the document flow — block, inline, grid, flex, etc.
 

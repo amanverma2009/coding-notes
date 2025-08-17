@@ -1,4 +1,4 @@
-# CSS Colors
+# Colors
 
 CSS allows you to style elements with different **colors** for text, backgrounds, borders, and more.
 

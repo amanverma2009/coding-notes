@@ -1,4 +1,4 @@
-# Introduction to JavaScript
+# Introduction
 
 **JavaScript (JS)** is a high-level, interpreted programming language used to make web pages **interactive** — handling user events, updating content dynamically, validating forms, and much more.
 

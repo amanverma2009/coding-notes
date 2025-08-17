@@ -1,4 +1,4 @@
-# HTML Lists
+# Lists
 
 ## 1. Unordered List: `<ul>`
 

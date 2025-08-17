@@ -1,4 +1,4 @@
-# JavaScript Data Types
+# Data Types
 
 JavaScript has **8 basic data types**, divided into **primitive** and **reference (non-primitive)** types.
 

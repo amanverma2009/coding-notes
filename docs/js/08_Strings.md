@@ -1,4 +1,4 @@
-# JavaScript Strings
+# Strings
 
 Strings represent **text** and are one of the most commonly used data types in JavaScript.
 

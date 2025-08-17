@@ -1,4 +1,4 @@
-# HTML Forms
+# Forms
 
 ## 1. Basic Form Structure
 

@@ -1,4 +1,4 @@
-# JavaScript Loops
+# Loops
 
 Loops let you **repeat a block of code** multiple times, either a fixed number of times or until a condition fails.
 

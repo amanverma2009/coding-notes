@@ -1,4 +1,4 @@
-# CSS Specificity & Cascade
+# Specificity & Cascade
 
 When multiple CSS rules target the same element, the **cascade** and **specificity** determine which rule wins.
 

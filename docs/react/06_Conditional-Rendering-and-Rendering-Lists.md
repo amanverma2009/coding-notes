@@ -1,4 +1,4 @@
-# Conditional Rendering and Rendering Lists in React
+# Conditional Rendering and Rendering Lists
 
 React lets you render components or elements **dynamically** based on conditions or data arrays. This is done using JavaScript logic inside JSX.
 

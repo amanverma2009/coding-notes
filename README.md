@@ -1,48 +1,56 @@
-# Coding-Notes
+# Coding Notes 📘
 
-Welcome to **Coding Notes**, my personal coding notes hub for mastering HTML, CSS, JavaScript, and more. This repo serves as a well-organized, beginner-to-advanced reference guide that you can always come back to when you need a quick refresh or deep dive.
+Welcome to **Coding Notes**, my personal coding notes hub for mastering HTML, CSS, JavaScript, and more.
 
-## 📑 Table of Contents
+This repo serves as a well-organized, beginner-to-advanced reference guide that you can always come back to when you need a quick refresh or deep dive.
 
-* [📚 Topics Covered](#-topics-covered)
-* [⚡ Why Use This Repo?](#-why-use-this-repo)
-* [✍️ How to Use](#️-how-to-use)
-* [🧑‍💻 Author](#-author)
-* [⭐️ Support & Contribute](#️-support--contribute)
+👉 **Live Site:** [Coding Notes](https://amanverma2009.github.io/coding-notes)
 
-## 📚 Topics Covered
+## 🚀 Run Locally
 
-1. [HTML](./docs/html/README.md)
-2. [CSS](./docs/css/README.md)
-3. [JavaScript](./docs/js/README.md)
-4. [Git and Github](./docs/git-and-github/README.md)
-5. [Node.JS](./docs/node-js/README.md)
-6. [React](./docs/react/README.md)
+### 1. Clone the repo:
 
-## ⚡ Why Use This Repo?
+   ```bash
+   git clone https://github.com/amanverma2009/coding-notes.git
+   cd coding-notes
+   ```
 
-* **Clarity**: Well-explained concepts with code and output
-* **Quick Reference**: Fast lookup for tag usage and examples
-* **Interview Prep**: Covers core topics
-* **Beginner Friendly**: Starts from scratch with real examples
+### 2. (Optional but recommended) Create and activate a virtual environment:
 
-## ✍️ How to Use
+   ```bash
+   python -m venv venv
+   # Windows
+   venv\Scripts\activate
+   # macOS/Linux
+   source venv/bin/activate
+   ```
 
-1. Clone the repo:
+### 3. Install dependencies:
 
-    ```bash
-    git clone https://github.com/amanverma2009/coding-notes.git
-    ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-2. Open any `.md` file in your markdown viewer or code editor.
-3. Use it as a cheat sheet or learning guide.
+### 4. Start the local dev server:
+
+   ```bash
+   mkdocs serve
+   ```
+
+   Now open <http://127.0.0.1:8000> in your browser.
 
 ## 🧑‍💻 Author
 
-Made with ❤️ By Me
+Made with ❤️ by Aman Verma  
+
+- [GitHub](https://github.com/amanverma2009)  
+- [LinkedIn](https://www.linkedin.com/in/aman-verma-dev/)
 
 ## ⭐️ Support & Contribute
 
-If you find this helpful, feel free to star the repo. Contributions and suggestions are welcome!
+If you find this helpful:
 
-> “The best way to learn to code is to write code.”
+- ⭐️ Star the repo
+- 📝 Open issues or pull requests with improvements
+
+> “The best way to learn to code is to write code.” ✍️

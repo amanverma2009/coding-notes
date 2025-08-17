@@ -1,4 +1,4 @@
-# React Hooks and State
+# Hooks and State
 
 Hooks are functions that let you use React features like state and lifecycle in **functional components**.
 

@@ -1,4 +1,4 @@
-# React useRef Hook
+# useRef Hook
 
 The `useRef` hook gives you a **mutable reference** to a DOM element or any value that persists across renders without causing re-renders.
 

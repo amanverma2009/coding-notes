@@ -1,4 +1,4 @@
-# CSS Animations
+# Animations
 
 CSS animations let you create complex, keyframe-based transitions between styles over time — without JavaScript.
 
