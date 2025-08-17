@@ -12,12 +12,12 @@ Welcome to **Coding Notes**, my personal coding notes hub for mastering HTML, CS
 
 ## 📚 Topics Covered
 
-1. [HTML](./html/README.md)
-2. [CSS](./css/README.md)
-3. [JavaScript](./js/README.md)
-4. [Git and Github](./git-and-github/README.md)
-5. [Node.JS](./node-js/README.md)
-6. [React](./react/README.md)
+1. [HTML](./docs/html/README.md)
+2. [CSS](./docs/css/README.md)
+3. [JavaScript](./docs/js/README.md)
+4. [Git and Github](./docs/git-and-github/README.md)
+5. [Node.JS](./docs/node-js/README.md)
+6. [React](./docs/react/README.md)
 
 ## ⚡ Why Use This Repo?
 
