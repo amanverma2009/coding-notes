@@ -1,12 +1,12 @@
-# Coding Notes 📘
+# Coding Notes
 
 Welcome to **Coding Notes**, my personal coding notes hub for mastering HTML, CSS, JavaScript, and more.
 
 This repo serves as a well-organized, beginner-to-advanced reference guide that you can always come back to when you need a quick refresh or deep dive.
 
-👉 **Live Site:** [Coding Notes](https://amanverma2009.github.io/coding-notes)
+**Live Site:** [Coding Notes](https://amanverma2009.github.io/coding-notes)
 
-## 🚀 Run Locally
+## Run Locally
 
 ### 1. Clone the repo:
 
@@ -39,18 +39,18 @@ This repo serves as a well-organized, beginner-to-advanced reference guide that 
 
    Now open <http://127.0.0.1:8000> in your browser.
 
-## 🧑‍💻 Author
+## Author
 
 Made with ❤️ by Aman Verma  
 
 - [GitHub](https://github.com/amanverma2009)  
 - [LinkedIn](https://www.linkedin.com/in/aman-verma-dev/)
 
-## ⭐️ Support & Contribute
+## Support & Contribute
 
 If you find this helpful:
 
 - ⭐️ Star the repo
 - 📝 Open issues or pull requests with improvements
 
-> “The best way to learn to code is to write code.” ✍️
+> “The best way to learn to code is to write code.”
