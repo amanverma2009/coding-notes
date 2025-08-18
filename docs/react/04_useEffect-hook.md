@@ -8,7 +8,7 @@ The `useEffect` hook lets you perform **side effects** in functional components 
 useEffect(() => {
   // code to run after render
 }, [dependencies]);
-````
+```
 
 * Runs **after every render** by default
 * The second argument (dependency array) controls **when** it runs
@@ -105,7 +105,3 @@ useEffect(() => {
   setCount(count + 1); // BAD: triggers render → runs again
 });
 ```
-
----
-
-The `useEffect` hook is essential for anything outside the render cycle — like API calls, subscriptions, or timers.
