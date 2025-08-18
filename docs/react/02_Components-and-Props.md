@@ -12,7 +12,7 @@ A component is a **JavaScript function** (or class) that returns a React element
 function Greeting() {
   return <h1>Hello, world!</h1>;
 }
-````
+```
 
 You use it like an HTML tag:
 

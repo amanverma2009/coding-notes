@@ -18,7 +18,7 @@ function Counter() {
     </div>
   );
 }
-````
+```
 
 * `useState(0)` initializes `count` to 0
 * `setCount()` updates it and re-renders the component
@@ -109,7 +109,3 @@ const [text, setText] = useState("");
 
 <input value={text} onChange={(e) => setText(e.target.value)} />
 ```
-
----
-
-Hooks let you keep logic inside functional components without using classes. Start with `useState` and `useEffect` — they cover 90% of real-world cases.

@@ -6,7 +6,7 @@ The `useRef` hook gives you a **mutable reference** to a DOM element or any valu
 
 ```jsx
 const ref = useRef(initialValue);
-````
+```
 
 * `ref.current` holds the value
 * Unlike state, updating `ref.current` **doesn’t re-render** the component

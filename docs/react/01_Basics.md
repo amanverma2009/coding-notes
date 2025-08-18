@@ -33,7 +33,7 @@ JSX lets you write HTML-like code inside JavaScript.
 
 ```jsx
 const element = <h1>Hello, React!</h1>;
-````
+```
 
 This is converted to:
 
@@ -59,8 +59,8 @@ Usage:
 
 ## State and Props
 
-* **Props**: Read-only data passed to a component
-* **State**: Mutable data local to a component
+- **Props**: Read-only data passed to a component
+- **State**: Mutable data local to a component
 
 ```jsx
 import { useState } from "react";
@@ -87,7 +87,7 @@ npm run dev
 
 Main files:
 
-```
+```bash
 my-app/
 ├─ src/
 │  ├─ App.jsx
@@ -98,8 +98,8 @@ my-app/
 
 ## Common React Tools & Libraries
 
-* **Vite / Create React App** – setup tools
-* **React Router** – routing
-* **Redux / Context API** – state management
-* **React Query / SWR** – data fetching and caching
-* **Tailwind / Styled Components** – styling
+- **Vite / Create React App** – setup tools
+- **React Router** – routing
+- **Redux / Context API** – state management
+- **React Query / SWR** – data fetching and caching
+- **Tailwind / Styled Components** – styling

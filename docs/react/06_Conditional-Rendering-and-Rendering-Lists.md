@@ -16,7 +16,7 @@ function Message({ isLoggedIn }) {
     return <h1>Please sign in.</h1>;
   }
 }
-````
+```
 
 ### b. Ternary Operator
 

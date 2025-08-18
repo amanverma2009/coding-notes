@@ -79,7 +79,7 @@ Try this:
 
 Exit:
 
-```
+```plaintext
 Ctrl + C (twice)
 ```
 
