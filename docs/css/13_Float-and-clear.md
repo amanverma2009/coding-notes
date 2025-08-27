@@ -1,4 +1,4 @@
-# Float and Clear
+# ![ ](../assets/css-logo.svg) Float and Clear
 
 The `float` property allows elements to be **taken out of normal flow** and positioned to the **left or right**, with text/content flowing around them. `clear` is used to **prevent wrapping** around floated elements.
 

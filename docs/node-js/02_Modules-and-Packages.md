@@ -1,4 +1,4 @@
-# Modules and Packages
+# ![ ](../assets/nodejs-logo.svg) Modules and Packages
 
 ## What Are Modules?
 

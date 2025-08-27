@@ -1,4 +1,4 @@
-# Entities and Code Tags
+# ![ ](../assets/html-logo.svg) Entities and Code Tags
 
 ## 1. HTML Entities
 

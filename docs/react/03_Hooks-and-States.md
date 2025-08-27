@@ -1,4 +1,4 @@
-# Hooks and State
+# ![ ](../assets/react_light.svg#only-light) ![ ](../assets/react_dark.svg#only-dark) Hooks and State
 
 Hooks are functions that let you use React features like state and lifecycle in **functional components**.
 

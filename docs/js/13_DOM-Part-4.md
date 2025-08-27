@@ -1,4 +1,4 @@
-# DOM Part 4: Events
+# ![ ](../assets/js-logo.svg) DOM Part 4: Events
 
 ## 1. What Are Events?
 

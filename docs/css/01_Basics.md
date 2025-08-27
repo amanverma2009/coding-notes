@@ -1,4 +1,4 @@
-# Basics
+# ![ ](../assets/css-logo.svg) Basics
 
 CSS (**Cascading Style Sheets**) is used to **style** HTML elements — controlling their layout, color, spacing, fonts, and more.
 

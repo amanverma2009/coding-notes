@@ -1,4 +1,4 @@
-# Process and Globals
+# ![ ](../assets/nodejs-logo.svg) Process and Globals
 
 ## The `process` Object
 

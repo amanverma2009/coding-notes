@@ -1,4 +1,4 @@
-# useEffect Hook
+# ![ ](../assets/react_light.svg#only-light) ![ ](../assets/react_dark.svg#only-dark) useEffect Hook
 
 The `useEffect` hook lets you perform **side effects** in functional components — like fetching data, setting up subscriptions, timers, or manually changing the DOM.
 

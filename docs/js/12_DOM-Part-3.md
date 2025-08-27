@@ -1,4 +1,4 @@
-# DOM Part 3: Creating & Removing Elements
+# ![ ](../assets/js-logo.svg) DOM Part 3: Creating & Removing Elements
 
 ## 1. `createElement()`
 

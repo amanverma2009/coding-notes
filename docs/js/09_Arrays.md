@@ -1,4 +1,4 @@
-# Arrays
+# ![ ](../assets/js-logo.svg) Arrays
 
 Arrays are **ordered lists** used to store multiple values in a single variable. They can contain any data type — strings, numbers, objects, functions, etc.
 

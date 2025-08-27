@@ -1,4 +1,4 @@
-# React Hook Form
+# ![ ](../assets/react_light.svg#only-light) ![ ](../assets/react_dark.svg#only-dark) React Hook Form
 
 React Hook Form is a library that makes handling forms in React **simpler and more efficient**. It minimizes re-renders, provides built-in validation, and works with both controlled and uncontrolled inputs.
 

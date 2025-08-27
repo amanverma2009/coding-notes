@@ -1,4 +1,4 @@
-# Git and GitHub
+# ![ ](../assets/git-logo.svg) Git and  ![ ](../assets/GitHub_light.svg#only-light) ![ ](../assets/GitHub_dark.svg#only-dark) GitHub
 
 ## 1. What is Git?
 

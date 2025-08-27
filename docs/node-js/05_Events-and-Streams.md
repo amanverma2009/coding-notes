@@ -1,4 +1,4 @@
-# Events and Streams
+# ![ ](../assets/nodejs-logo.svg) Events and Streams
 
 ## EventEmitter (events module)
 

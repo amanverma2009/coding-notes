@@ -1,4 +1,4 @@
-# HTTP and Routing
+# ![ ](../assets/nodejs-logo.svg) HTTP and Routing
 
 ## HTTP Module
 

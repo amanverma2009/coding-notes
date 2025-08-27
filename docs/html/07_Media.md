@@ -1,4 +1,4 @@
-# Media Elements
+# ![ ](../assets/html-logo.svg) Media Elements
 
 ## 1. Image: `<img>`
 

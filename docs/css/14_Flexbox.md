@@ -1,4 +1,4 @@
-# Flexbox
+# ![ ](../assets/css-logo.svg) Flexbox
 
 **Flexbox** (Flexible Box Layout) is a 1-dimensional layout system that makes it easy to align, distribute, and order space among items in a container — either horizontally or vertically.
 

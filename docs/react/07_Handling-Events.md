@@ -1,4 +1,4 @@
-# Handling Events
+# ![ ](../assets/react_light.svg#only-light) ![ ](../assets/react_dark.svg#only-dark) Handling Events
 
 React events are similar to DOM events but use **camelCase** and work consistently across browsers. Event handlers are written as functions and passed as props.
 

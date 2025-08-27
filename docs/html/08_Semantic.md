@@ -1,4 +1,4 @@
-# Semantic Tags
+# ![ ](../assets/html-logo.svg) Semantic Tags
 
 Semantic tags clearly describe the **meaning** of the content inside them — making HTML **more readable, accessible, and SEO-friendly**.
 

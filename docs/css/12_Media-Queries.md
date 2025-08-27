@@ -1,4 +1,4 @@
-# Media Queries
+# ![ ](../assets/css-logo.svg) Media Queries
 
 Media queries let you apply CSS **based on screen/device properties**, enabling **responsive design**.
 

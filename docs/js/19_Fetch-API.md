@@ -1,4 +1,4 @@
-# Fetch API
+# ![ ](../assets/js-logo.svg) Fetch API
 
 The **Fetch API** is used to make **HTTP requests** (GET, POST, etc.) from the browser. It returns a **Promise**.
 

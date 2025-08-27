@@ -1,4 +1,4 @@
-# Basics
+# ![ ](../assets/html-logo.svg) Basics
 
 ## What is HTML?
 

@@ -1,4 +1,4 @@
-# Fonts
+# ![ ](../assets/css-logo.svg) Fonts
 
 Fonts control the **appearance of text** — including typeface, size, weight, spacing, and more.
 

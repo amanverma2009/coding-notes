@@ -37,7 +37,7 @@ This repo serves as a well-organized, beginner-to-advanced reference guide that 
    mkdocs serve
    ```
 
-   Now open <http://127.0.0.1:8000> in your browser.
+   Now open localhost in your browser.
 
 ## Author
 

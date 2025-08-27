@@ -1,4 +1,4 @@
-# useContext Hook
+# ![ ](../assets/react_light.svg#only-light) ![ ](../assets/react_dark.svg#only-dark) useContext Hook
 
 The `useContext` hook provides a way to share state and values across the component tree **without passing props manually** at every level.
 

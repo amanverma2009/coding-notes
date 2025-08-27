@@ -1,4 +1,4 @@
-# Conditionals
+# ![ ](../assets/js-logo.svg) Conditionals
 
 Conditionals control the flow of code by executing different blocks based on **true/false** evaluations.
 

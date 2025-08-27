@@ -1,4 +1,4 @@
-# Selectors
+# ![ ](../assets/css-logo.svg) Selectors
 
 CSS **selectors** target HTML elements to apply styles. They determine **what** gets styled.
 

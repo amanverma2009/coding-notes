@@ -1,4 +1,4 @@
-# Block and Inline Elements
+# ![ ](../assets/html-logo.svg) Block and Inline Elements
 
 ## 1. Block-Level Elements
 

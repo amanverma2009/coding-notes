@@ -1,4 +1,4 @@
-# Error Handling and Debugging
+# ![ ](../assets/nodejs-logo.svg) Error Handling and Debugging
 
 ## Handling Errors with try/catch
 

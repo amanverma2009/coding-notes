@@ -1,4 +1,4 @@
-# Text
+# ![ ](../assets/css-logo.svg) Text
 
 CSS provides properties to style and align **text content** in HTML elements.
 

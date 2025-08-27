@@ -1,4 +1,4 @@
-# Introduction
+# ![ ](../assets/react_light.svg#only-light) ![ ](../assets/react_dark.svg#only-dark) Introduction
 
 React is a **JavaScript library** for building **user interfaces**. It is maintained by Meta (formerly Facebook) and used in production by companies like Instagram, Netflix, and Airbnb.
 

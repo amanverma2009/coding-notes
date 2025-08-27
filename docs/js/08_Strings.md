@@ -1,4 +1,4 @@
-# Strings
+# ![ ](../assets/js-logo.svg) Strings
 
 Strings represent **text** and are one of the most commonly used data types in JavaScript.
 

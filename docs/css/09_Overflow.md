@@ -1,7 +1,6 @@
-# Overflow
+# ![ ](../assets/css-logo.svg) Overflow
 
 The `overflow` property controls what happens when content **exceeds** the size of its container.
-
 
 ## 1. Values
 

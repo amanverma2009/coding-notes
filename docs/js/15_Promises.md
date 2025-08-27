@@ -1,4 +1,4 @@
-# Promises
+# ![ ](../assets/js-logo.svg) Promises
 
 A **Promise** is an object representing the eventual result of an **asynchronous operation** — it may **resolve** (success) or **reject** (failure).
 

@@ -1,4 +1,4 @@
-# Intro and Setup
+# ![ ](../assets/nodejs-logo.svg) Intro and Setup
 
 ## What is Node.js?
 

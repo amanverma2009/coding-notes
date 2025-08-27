@@ -1,4 +1,4 @@
-# Transitions
+# ![ ](../assets/css-logo.svg) Transitions
 
 CSS transitions let you smoothly animate changes in CSS property values over time.
 

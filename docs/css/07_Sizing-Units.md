@@ -1,4 +1,4 @@
-# Sizing Units
+# ![ ](../assets/css-logo.svg) Sizing Units
 
 CSS sizing units define dimensions like `width`, `height`, `padding`, `margin`, and `font-size`. They fall into two main categories: **absolute** and **relative** units.
 

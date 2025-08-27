@@ -1,4 +1,4 @@
-# Callbacks
+# ![ ](../assets/js-logo.svg) Callbacks
 
 A **callback** is a function passed as an argument to another function, to be **called later** — either after an operation completes or at a specific time.
 

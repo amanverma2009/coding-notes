@@ -1,4 +1,4 @@
-# `try...catch` & Error Handling
+# ![ ](../assets/js-logo.svg) `try...catch` & Error Handling
 
 `try...catch` is used to **safely handle errors** in synchronous and asynchronous code, preventing crashes and allowing custom responses.
 

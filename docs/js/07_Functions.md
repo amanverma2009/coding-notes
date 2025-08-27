@@ -1,4 +1,4 @@
-# Functions
+# ![ ](../assets/js-logo.svg) Functions
 
 Functions are reusable blocks of code that perform specific tasks. You define them once and call them anywhere.
 

@@ -1,4 +1,4 @@
-# React useMemo Hook
+# ![ ](../assets/react_light.svg#only-light) ![ ](../assets/react_dark.svg#only-dark) React useMemo Hook
 
 The `useMemo` hook is used to **memoize expensive calculations** so they are not re-executed on every render unless their dependencies change.
 

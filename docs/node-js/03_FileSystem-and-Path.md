@@ -1,4 +1,4 @@
-# File System and Path
+# ![ ](../assets/nodejs-logo.svg) File System and Path
 
 ## File System (fs module)
 

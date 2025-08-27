@@ -1,4 +1,4 @@
-# Components and Props
+# ![ ](../assets/react_light.svg#only-light) ![ ](../assets/react_dark.svg#only-dark) Components and Props
 
 In React, **components** are the core building blocks of the UI. They allow you to split the interface into **independent, reusable pieces**.
 

@@ -1,4 +1,4 @@
-# `object-fit` and `object-position`
+# ![ ](../assets/css-logo.svg) `object-fit` and `object-position`
 
 The `object-fit` property defines **how content like images or videos are resized** to fit their container.
 

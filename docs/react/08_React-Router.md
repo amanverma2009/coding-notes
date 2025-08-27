@@ -1,4 +1,4 @@
-# React Router
+# ![ ](../assets/react_light.svg#only-light) ![ ](../assets/react_dark.svg#only-dark) React Router
 
 React Router is a library used for handling **navigation** and **routing** in React applications. It allows you to create single-page applications (SPAs) with multiple views.
 

@@ -1,4 +1,4 @@
-# DOM Part 2: Modifying Elements
+# ![ ](../assets/js-logo.svg) DOM Part 2: Modifying Elements
 
 ## 1. `innerText`, `textContent`, `innerHTML`
 

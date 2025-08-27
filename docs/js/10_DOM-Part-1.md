@@ -1,4 +1,4 @@
-# DOM Part 1: Basics & Selecting Elements
+# ![ ](../assets/js-logo.svg) DOM Part 1: Basics & Selecting Elements
 
 ## 1. What Is the DOM?
 

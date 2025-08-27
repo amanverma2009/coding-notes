@@ -1,4 +1,4 @@
-# `async/await`
+# ![ ](../assets/js-logo.svg) `async/await`
 
 `async` and `await` are **syntactic sugar** over Promises that make asynchronous code look and behave like synchronous code.
 

@@ -1,4 +1,4 @@
-# Variables
+# ![ ](../assets/js-logo.svg) Variables
 
 Variables are used to **store data** that can be referenced and manipulated later.
 

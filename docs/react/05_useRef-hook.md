@@ -1,4 +1,4 @@
-# useRef Hook
+# ![ ](../assets/react_light.svg#only-light) ![ ](../assets/react_dark.svg#only-dark) useRef Hook
 
 The `useRef` hook gives you a **mutable reference** to a DOM element or any value that persists across renders without causing re-renders.
 

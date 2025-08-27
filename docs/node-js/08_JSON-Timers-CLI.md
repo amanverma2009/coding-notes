@@ -1,4 +1,4 @@
-# JSON, Timers and CLI Tools
+# ![ ](../assets/nodejs-logo.svg) JSON, Timers and CLI Tools
 
 ## Working with JSON
 
