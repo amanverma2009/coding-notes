@@ -4,10 +4,11 @@ Express.js is a **minimal and flexible Node.js web application framework** that 
 
 ## 1. Why Use Express.js?
 
-- Simplifies building server-side applications with Node.js  
-- Provides **routing**, **middleware**, and **templating** support  
-- Lightweight and fast  
-- Widely used in production apps and APIs  
+- Simplifies building server-side applications with Node.js
+- Provides **routing**, **middleware**, and **templating** support
+- Lightweight and fast
+- Widely used in building **REST APIs** and **full-stack apps**
+- Easy integration with databases like MongoDB, MySQL, PostgreSQL
 
 ## 2. Installation
 
@@ -108,10 +109,3 @@ app.use("/users", userRoutes);
 
 Visiting `/users/` → "User List"
 Visiting `/users/42` → "User 42"
-
-## 9. Why Express is Popular
-
-- Lightweight but powerful
-- Large ecosystem of middleware
-- Easy integration with databases like MongoDB, MySQL, PostgreSQL
-- Perfect for building **REST APIs** and **full-stack apps**
