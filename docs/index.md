@@ -11,6 +11,7 @@ Think of it as a personal coding cheat sheet that grows with me.
 4. Git & GitHub
 5. Node.js
 6. React
+7. Express.js
 
 ## ⚡ Why Use This?
 
