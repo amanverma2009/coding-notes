@@ -1,4 +1,4 @@
-# ![ ](../assets/react_light.svg#only-light) ![ ](../assets/react_dark.svg#only-dark) React useCallback Hook
+# ![ ](../assets/react_light.svg#only-light) ![ ](../assets/react_dark.svg#only-dark) useCallback Hook
 
 The `useCallback` hook returns a **memoized version of a callback function** that only changes when its dependencies change.  
 It is mainly used to **prevent unnecessary re-renders** of child components that receive functions as props.

@@ -59,7 +59,30 @@ app.post("/submit", (req, res) => {
 });
 ```
 
-## 5. Middleware
+## 5. Route Parameters (`req.params`)
+
+Route parameters allow you to capture values from the URL.
+
+```js
+app.get("/users/:id", (req, res) => {
+  const userId = req.params.id;
+  res.send(`User ID: ${userId}`);
+});
+```
+
+- Visiting `/users/42` → `req.params.id` is `"42"`
+- Useful for dynamic routes like user profiles, product pages, etc.
+
+Multiple parameters:
+
+```js
+app.get("/posts/:postId/comments/:commentId", (req, res) => {
+  const { postId, commentId } = req.params;
+  res.send(`Post ID: ${postId}, Comment ID: ${commentId}`);
+});
+```
+
+## 6. Middleware
 
 Middleware functions are functions that run **before reaching the final route handler**. They can modify `req` and `res`.
 
@@ -70,7 +93,7 @@ app.use((req, res, next) => {
 });
 ```
 
-## 6. Serving Static Files
+## 7. Serving Static Files
 
 ```js
 app.use(express.static("public"));
@@ -78,7 +101,7 @@ app.use(express.static("public"));
 
 Now you can serve files like `public/index.html`.
 
-## 7. JSON Data Handling
+## 8. JSON Data Handling
 
 ```js
 app.use(express.json());
@@ -90,7 +113,7 @@ app.post("/data", (req, res) => {
 
 - `express.json()` parses JSON request bodies
 
-## 8. Express Routing in Separate Files
+## 9. Express Routing in Separate Files
 
 ```js
 // routes/user.js

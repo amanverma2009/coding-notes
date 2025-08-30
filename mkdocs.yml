@@ -8,7 +8,7 @@ theme:
   name: material
   icon:
     repo: fontawesome/brands/github
-  palette: 
+  palette:
     - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline
@@ -36,6 +36,12 @@ plugins:
   - search
   - tags
   - awesome-pages
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+      type: date
+      enable_creation_date: true
+      locale: en
+      timezone: Asia/Kolkata
 
 markdown_extensions:
   - admonition
