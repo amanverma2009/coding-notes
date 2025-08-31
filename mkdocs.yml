@@ -38,8 +38,7 @@ plugins:
   - awesome-pages
   - git-revision-date-localized:
       fallback_to_build_date: true
-      type: date
-      enable_creation_date: true
+      type: datetime
       locale: en
       timezone: Asia/Kolkata
 
