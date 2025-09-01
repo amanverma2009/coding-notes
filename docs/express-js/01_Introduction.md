@@ -18,7 +18,7 @@ First, initialize a Node.js project:
 mkdir express-app
 cd express-app
 npm init -y
-````
+```
 
 Install Express:
 
