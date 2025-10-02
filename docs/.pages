@@ -6,6 +6,8 @@ arrange:
   - git-and-github
   - node-js
   - react
+  - express-js
+  - projects
 
 folders:
   assets:
