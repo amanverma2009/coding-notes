@@ -1,4 +1,4 @@
-# ![ ](../assets/MongoDB_light.svg#only-light) ![ ](../assets/MongoDB_dark.svg#only-dark) CRUD Operations in MongoDB
+# ![ ](../assets/MongoDB_light.svg#only-light) ![ ](../assets/MongoDB_dark.svg#only-dark) CRUD Operations
 
 ## Introduction
 

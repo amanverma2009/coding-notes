@@ -1,4 +1,4 @@
-# ![ ](../assets/MongoDB_light.svg#only-light) ![ ](../assets/MongoDB_dark.svg#only-dark)Mongoose
+# ![ ](../assets/MongoDB_light.svg#only-light) ![ ](../assets/MongoDB_dark.svg#only-dark) Mongoose
 
 Mongoose is an **Object Data Modeling (ODM)** library for **MongoDB** and **Node.js**.
 It helps developers interact with MongoDB using JavaScript objects instead of writing raw database queries.
