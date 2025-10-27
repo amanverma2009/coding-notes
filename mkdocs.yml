@@ -22,7 +22,6 @@ theme:
     - navigation.instant
     - navigation.instant.progress
     - navigation.tracking
-    - navigation.sections
     - navigation.expand
     - search.highlight
     - search.suggest
@@ -36,11 +35,6 @@ plugins:
   - search
   - tags
   - awesome-pages
-  - git-revision-date-localized:
-      fallback_to_build_date: true
-      type: datetime
-      locale: en
-      timezone: Asia/Kolkata
 
 markdown_extensions:
   - admonition
