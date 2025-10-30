@@ -164,6 +164,6 @@ npm install nodemon --save-dev
 
 Tracks exact versions of all installed packages to ensure consistency across environments.
 
-## node\_modules
+## node_modules
 
 Stores all installed packages. Do **not** push this folder to GitHub — use `.gitignore`.

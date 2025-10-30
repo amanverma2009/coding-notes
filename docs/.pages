@@ -5,6 +5,9 @@ arrange:
   - js
   - git-and-github
   - node-js
+  - hosting
+  - express-js
+  - mongodb
   - react
 
 folders:

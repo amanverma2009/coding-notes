@@ -112,13 +112,3 @@ path.resolve("folder", "file.txt") // absolute path
 const filePath = path.join(__dirname, "data", "info.txt");
 console.log(filePath);
 ```
-
-## Summary
-
-| Task            | Method                           |
-| --------------- | -------------------------------- |
-| Read file       | `fs.readFile`, `fs.readFileSync` |
-| Write file      | `fs.writeFile`, `fs.appendFile`  |
-| Delete file     | `fs.unlink`                      |
-| Read dir        | `fs.readdir`                     |
-| Work with paths | `path.join`, `path.basename`     |

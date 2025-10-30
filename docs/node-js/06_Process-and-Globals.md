@@ -124,15 +124,3 @@ To use:
 node app.js
 # then type something and press Enter
 ```
-
-## Summary
-
-| Feature        | Description            |
-| -------------- | ---------------------- |
-| `process.argv` | CLI args               |
-| `process.env`  | Environment variables  |
-| `__dirname`    | Current directory path |
-| `__filename`   | Current file path      |
-| `setTimeout`   | Delay execution        |
-| `setInterval`  | Repeat execution       |
-| `stdin/stdout` | Read/write to terminal |

@@ -118,14 +118,3 @@ process.stdin.on("data", (data) => {
   console.log(`You typed: ${data.toString().trim()}`);
 });
 ```
-
-## Summary
-
-| Concept         | Method/Function                         |
-| --------------- | --------------------------------------- |
-| Read JSON       | `fs.readFileSync` + `JSON.parse()`      |
-| Write JSON      | `JSON.stringify()` + `fs.writeFileSync` |
-| Delayed Run     | `setTimeout()`                          |
-| Repeated Run    | `setInterval()`                         |
-| CLI Args        | `process.argv`                          |
-| Read from stdin | `process.stdin.on("data")`              |

@@ -97,10 +97,3 @@ res.writeHead(200, {
 | 200  | OK                    |
 | 404  | Not Found             |
 | 500  | Internal Server Error |
-
-## Summary
-
-* Use `http.createServer()` to build a server
-* Use `req.url` and `req.method` for routing
-* Use `fs` to serve files
-* Manually handle headers and status codes

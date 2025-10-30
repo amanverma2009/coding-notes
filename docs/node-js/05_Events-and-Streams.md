@@ -106,12 +106,3 @@ console.log(buf.toString()); // Hello
 ```
 
 Use Buffers when working with streams, sockets, or binary files.
-
-## Summary
-
-| Concept      | Description                         |
-| ------------ | ----------------------------------- |
-| EventEmitter | Emit/listen for custom async events |
-| Stream       | Handle large data in chunks         |
-| Pipe         | Connect readable → writable streams |
-| Buffer       | Low-level binary data container     |

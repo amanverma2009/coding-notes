@@ -124,14 +124,3 @@ Then use `n`, `c`, `repl`, etc. to step through the code.
 * Set breakpoints directly in the editor
 * Use launch configuration (`.vscode/launch.json`)
 * Run using the built-in debugger
-
-## Summary
-
-| Tool/Technique | Purpose                        |
-| -------------- | ------------------------------ |
-| `try/catch`    | Handle sync or async errors    |
-| `.catch()`     | Handle Promise errors          |
-| `error` events | Handle stream/module errors    |
-| `debugger`     | Pause execution for inspection |
-| `console.log`  | Basic output for debugging     |
-| `inspect`      | Built-in Node debugger         |

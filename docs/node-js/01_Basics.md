@@ -82,13 +82,3 @@ Exit:
 ```plaintext
 Ctrl + C (twice)
 ```
-
-## Summary
-
-| Feature        | Purpose                             |
-| -------------- | ----------------------------------- |
-| Node.js        | JavaScript runtime on the server    |
-| V8 Engine      | Compiles JS to machine code         |
-| Event Loop     | Handles async I/O without blocking  |
-| REPL           | Test code interactively in terminal |
-| `node file.js` | Run JS file outside the browser     |
