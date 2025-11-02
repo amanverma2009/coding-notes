@@ -9,6 +9,7 @@ arrange:
   - express-js
   - mongodb
   - react
+  - next-js
 
 folders:
   assets:
