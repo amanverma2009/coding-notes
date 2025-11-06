@@ -1,4 +1,4 @@
-# APIs in Next.js
+# ![ ](../assets/nextjs-logo.svg) APIs in Next.js
 
 ## Overview
 
