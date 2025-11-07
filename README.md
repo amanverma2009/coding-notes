@@ -39,13 +39,6 @@ This repo serves as a well-organized, beginner-to-advanced reference guide that 
 
    Now open localhost in your browser.
 
-## Author
-
-Made with ❤️ by Aman Verma  
-
-- [GitHub](https://github.com/amanverma2009)  
-- [LinkedIn](https://www.linkedin.com/in/aman-verma-dev/)
-
 ## Support & Contribute
 
 If you find this helpful:
