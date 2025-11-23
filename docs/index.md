@@ -8,7 +8,7 @@ Think of it as a personal coding cheat sheet that grows with me.
 1. [HTML](./html/01_Basics.md)
 2. [CSS](./css/01_Basics.md)
 3. [JavaScript](./js/01_Basics.md)
-4. [Git & GitHub](./git-and-github/01_Git-and-Github.md)
+4. [Git & GitHub](./git-and-github/01_Git.md)
 5. [Node.js](./node-js/01_Basics.md)
 6. [Hosting](./hosting/01_Introduction.md)
 7. [Express.js](./express-js/01_Introduction.md)
