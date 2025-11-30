@@ -1,4 +1,4 @@
-# Dynamic Routes in Next.js
+# ![ ](../assets/nextjs-logo.svg) Dynamic Routes in Next.js
 
 ## What are Dynamic Routes
 

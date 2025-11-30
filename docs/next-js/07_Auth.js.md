@@ -1,4 +1,4 @@
-# Authentication in Next.js using Auth.js
+# ![ ](../assets/nextjs-logo.svg) Authentication in Next.js using Auth.js
 
 ## What is Auth.js?
 
