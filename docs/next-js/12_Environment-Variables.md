@@ -1,4 +1,4 @@
-# Environment Variables in Next.js
+# ![ ](../assets/nextjs-logo.svg) Environment Variables in Next.js
 
 ## Why Environment Variables Matter
 
