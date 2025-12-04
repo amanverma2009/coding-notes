@@ -1,6 +1,6 @@
 # Coding Notes
 
-Welcome to **Coding Notes**, a neatly organized reference for mastering HTML, CSS, JavaScript, Git, Node.js, React, and more.  
+Welcome to my **Coding Notes**, a neatly organized reference for mastering HTML, CSS, JavaScript, Git, Node.js, React, and more.  
 Think of it as a personal coding cheat sheet that grows with me.
 
 ## Topics Covered
@@ -18,16 +18,20 @@ Think of it as a personal coding cheat sheet that grows with me.
 
 ## Why Use This?
 
-- **Clarity** → Well-explained concepts with real code examples  
-- **Quick Reference** → Fast lookup for syntax and usage  
-- **Interview Prep** → Covers fundamentals recruiters actually ask  
-- **Beginner Friendly** → Starts from scratch with practical guides
+- **Clarity** - Well-explained concepts with real code examples  
+- **Quick Reference** - Fast lookup for syntax and usage  
+- **Interview Prep** - Covers fundamentals recruiters actually ask  
+- **Beginner Friendly** - Starts from scratch with practical guides
 
 ## How to Use
 
 - Browse topics via the navigation sidebar or search bar  
 - Jump into any section when you need a quick refresher  
 - Treat it as a growing personal knowledge base
+
+## Why I Built This
+
+I built this site to turn everything I learn into clear notes and working projects. It helps me learn faster, track progress, and share useful code with others.
 
 ## Author
 
